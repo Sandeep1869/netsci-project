@@ -1,1 +1,1 @@
-# centrality criticality
+# centrality and criticality
